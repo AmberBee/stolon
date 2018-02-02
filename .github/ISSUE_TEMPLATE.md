@@ -1,4 +1,4 @@
-<!-- **NOTE:** Please submit only bug reports or RFE via the issue tracker. For other question or if unsure ask on the mailing list or gitter channel: https://github.com/sorintlab/stolon#contacts -->
+<!-- **NOTE:** Please submit only bug reports or RFE via the issue tracker. For other question or if unsure ask on the mailing list or gitter channel: https://github.com/sorintlab/sircle#contacts -->
 
 ### Submission type
 
@@ -10,7 +10,7 @@
 
 ### Environment
 
-#### Stolon version
+#### Sircle version
 
 #### Additional environment information if useful to understand the bug
 
